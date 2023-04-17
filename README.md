@@ -2,15 +2,53 @@
 
 A new Flutter Travel App Interface
 
-## Getting Started
+## Screens it contains:
 
-This project is a starting point for a Flutter application.
+=> Intro
 
-A few resources to get you started if this is your first Flutter project:
+=> Splash Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+=> Home Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> Checkout Page
+
+=> Hotel Page
+
+=> Detail Hotel Page
+
+=> Hotel Booking Page
+
+=> Like Page
+
+=> Add guest and room Page
+
+=> Select Date Page
+
+=> Select Room Page
+
+=> Setting Page
+
+Reference from: 200Lab
+[200lab](https://github.com/200lab-Education)
+
+## Photos
+
+<p align="center">
+  <img src="/assets/images/show_img/landing.png" width="300" hspace="20">
+  <img src="/assets/images/show_img/home.png" width="300" hspace="20">
+</p>
+
+<p align="center">
+  <img src="/assets/images/show_img/home_favorite.png" width="300" hspace="20">
+  <img src="/assets/images/show_img/show_more.png" width="300" hspace="20">
+</p>
+
+<p align="center">
+  <img src="/assets/images/show_img/list_words.png" width="300" hspace="20">
+  <img src="/assets/images/show_img/detail_word.png" width="300" hspace="20">
+</p>
+
+<p align="center">
+  <img src="/assets/images/show_img/menu.png" width="300" hspace="20">
+  <img src="/assets/images/show_img/your_control.png" width="300" hspace="20">
+</p>
