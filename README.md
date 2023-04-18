@@ -34,13 +34,13 @@ Reference from: 200Lab
 ## Photos
 
 <p align="center">
-  <img src="/assets/images/show_img/landing.png" width="300" hspace="20">
-  <img src="/assets/images/show_img/home.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/home.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/hotel_booking.png" width="300" hspace="20">
 </p>
 
 <p align="center">
-  <img src="/assets/images/show_img/home_favorite.png" width="300" hspace="20">
-  <img src="/assets/images/show_img/show_more.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/home.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/home.png" width="300" hspace="20">
 </p>
 
 <p align="center">
