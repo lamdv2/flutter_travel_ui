@@ -39,16 +39,19 @@ Reference from: 200Lab
 </p>
 
 <p align="center">
-  <img src="/assets/images/show_screen/home.png" width="300" hspace="20">
-  <img src="/assets/images/show_screen/home.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/select_date.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/select_room.png" width="300" hspace="20">
 </p>
 
 <p align="center">
-  <img src="/assets/images/show_img/list_words.png" width="300" hspace="20">
-  <img src="/assets/images/show_img/detail_word.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/hotels.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/hotel_detail.png" width="300" hspace="20">
 </p>
 
 <p align="center">
-  <img src="/assets/images/show_img/menu.png" width="300" hspace="20">
-  <img src="/assets/images/show_img/your_control.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/hotel_detail_map.png" width="300" hspace="20">
+  <img src="/assets/images/show_screen/select_room.png" width="300" hspace="20">
+</p>
+<p align="center">
+  <img src="/assets/images/show_screen/checkout.png" width="300" hspace="20">
 </p>
